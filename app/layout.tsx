@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Micro Power UP",
-  description: "Potencialize seu negócio",
+  description: "Multiplique-se",
   // Adicionado para desvincular o ícone padrão da Vercel
   icons: {
     icon: [], 
